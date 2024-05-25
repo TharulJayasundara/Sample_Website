@@ -1,6 +1,7 @@
 🧧 Web programming - WoW Florists - Online Flower Shop Website using HTML & CSS
-
-🌸- www.wowflorists.com -🌸 
+                                      
+                                        🌸- www.wowflorists.com -🌸 
+                                        ----------------------------
 
 ![image](https://github.com/TharulJayasundara/Sample_Website/assets/170612345/207cd759-729b-4bde-89f4-8e3d73fbafb7)
 ![image](https://github.com/TharulJayasundara/Sample_Website/assets/170612345/698e23ad-d1c9-48f5-9fd2-ff029e388dd4)
